@@ -1,0 +1,6 @@
+async function quantidadeTrabalhadores()
+{ 
+ const url = 'https://raw.githubusercontent.com/silvionsjr/CienciaDeDados-CriandoGraficosDinamicosComJavaScript/refs/heads/Aula01/trabalho-dados-gerais.json'
+ const res = await fetch(url)
+ const dados = 
+}
